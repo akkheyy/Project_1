@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+ipykernel = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+requests = "*"
+config = "*"
+census = "*"
+us = "*"
+plotly = "*"
+scipy = "*"
+seaborn = "*"
+shapely = "*"
+
+[requires]
+python_version = "3.7"
