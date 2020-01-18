@@ -1,5 +1,5 @@
 # Project_1
-CamMetro Bus Stops vs. Service Area Population Demographics Analysis
+# CamMetro Bus Stops vs. Service Area Population Demographics Analysis
 
 We began this project hoping to better understand the relationship between the poverty rate of an area, and the public transport quality of service (as measured by number of bus stops) to that area. We wanted to better understand how bus stops are distributed throughout the city and hypothesized that as the need is greater, or poverty rate is higher, in a given area, we would see a higher bus stop count in that area.
 
